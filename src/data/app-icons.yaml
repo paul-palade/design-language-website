@@ -10745,14 +10745,17 @@
     - monitor
     - computer monitor
     - shield
-- name: HyperProtectOfflineSigningOrchestrator
-  friendly_name: IBM® Hyper Protect Offline Signing Orchestrator
+- name: DigitalAssetOfflineSigningOrchestrator
+  friendly_name: IBM® Digital Asset Offline Signing Orchestrator
   category: Stroke style
   aliases: 
     - code storage
     - digital assets
     - cold wallet
-    - hyper protect
+    - digital asset
+    - offline
+    - signing
+    - orchestrator
     - security
     - virtual Servers
     - IBM Z
@@ -10760,7 +10763,7 @@
     - services
     - blue
     - diagonal
-    - shield 
+    - shield
 - name: Apps
   friendly_name: IBM Apps
   category: Stroke style 
@@ -14303,3 +14306,42 @@
     - edit
     - navigator
     - pencil
+- name: CollabOS
+  friendly_name: IBM® CollabOS
+  category: Stroke style
+  aliases:
+    - workshop
+    - facilitation
+    - transcription
+    - AI
+    - meeting
+    - offline
+    - private
+    - collaboration
+    - design thinking
+    - person
+- name: MacAppStore
+  friendly_name: Mac@IBM App Store
+  category: Stroke style
+  aliases:
+    - Mac@IBM App Store
+    - store
+    - Mac
+    - macOS
+    - Mac@IBM
+    - applications
+    - app
+- name: EnrollmentHelper
+  friendly_name: Mac@IBM Enrollment Helper
+  category: Stroke style
+  aliases:
+    - Mac@IBM Enrollment Helper
+    - checkmark
+    - enrollment
+    - Mac
+    - MDM
+    - helper
+    - macOS
+    - Mac@IBM
+    - applications
+    - app
