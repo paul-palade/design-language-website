@@ -14346,3 +14346,19 @@
     - Mac@IBM
     - applications
     - app
+- name: AILifecycleSharedEngineeringArtifacts
+  friendly_name: IBM® AI Lifecycle Shared Engineering Artifacts
+  category: Stroke style
+  aliases:
+    - ALSEA
+    - AI Lifecycle Shared Engineering Artifacts
+    - specification-driven development
+    - heart
+    - context standard
+    - AI coding agent
+    - enterprise AI
+    - context injection
+    - software development
+    - code generation
+    - developer tools
+    - engineering standard
