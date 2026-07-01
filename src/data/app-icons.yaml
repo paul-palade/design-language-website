@@ -14306,8 +14306,8 @@
     - edit
     - navigator
     - pencil
-- name: CollabOS
-  friendly_name: IBM® CollabOS
+- name: Sessions
+  friendly_name: IBM® Sessions
   category: Stroke style
   aliases:
     - workshop
@@ -14315,6 +14315,7 @@
     - transcription
     - AI
     - meeting
+    - sessions
     - offline
     - private
     - collaboration
