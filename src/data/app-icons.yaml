@@ -14362,3 +14362,53 @@
     - code generation
     - developer tools
     - engineering standard
+- name: MaximoApplicationConfigurationLocalDevMode
+  friendly_name: IBM® Maximo® Application Configuration Local Dev Mode
+  category: Stroke style
+  aliases:
+    - Maximo Application Configuration Local Dev Mode
+    - M
+    - gear
+    - cog
+- name: S4FMobile
+  friendly_name: IBM® S4F Mobile
+  category: Stroke style
+  aliases:
+    - S4F Mobile
+    - field operations
+    - service tracking
+    - visit logging
+    - parts requests
+    - service reports
+    - photo attachments
+- name: InfrastructureManagementforZandLinuxONE
+  friendly_name: IBM® Infrastructure Management for Z and LinuxONE
+  category: Stroke style
+  aliases:
+    - Infrastructure Management for Z and LinuxONE
+    - Infrastructure
+    - management
+    - virtualization
+    - Z
+    - LinuxONE
+    - cube
+- name: ICAEdge
+  friendly_name: IBM® Consulting Advantage Edge
+  category: Stroke style
+  aliases:
+    - ICA
+    - Edge
+    - cowork
+    - Consulting Advantage Edge
+    - person
+    - desktop
+    - triangle
+    - circle
+- name: COBOLElevateForZOS
+  friendly_name: IBM® COBOL Elevate for z/OS®
+  category: Stroke style
+  aliases:
+    - COBOL Elevate for z/OS
+    - elevate
+    - COBOL
+    - modernization
